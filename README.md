@@ -1,7 +1,7 @@
 # PSMeter
 ## A password strength meter for Android.
 
-![](https://github.com/YoussefSeddik/PSMeter/blob/master/PsMetertPreview.gif)
+![](https://github.com/YoussefSeddik/PSMeter-Android/blob/master/ps-meter.gif)
 
 [![](https://jitpack.io/v/YoussefSeddik/PSMeter.svg)](https://jitpack.io/#YoussefSeddik/PSMeter)
 
